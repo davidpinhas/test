@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.jfrog.test1</groupId>
+    <artifactId>test3</artifactId>
+    <version>2.1.0-SNAPSHOT</version>
+    <distributionManagement>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>davidp-mac.-7054.local.snapshots</name>
+            <url>http://10.1.16.63:8081/artifactory/libs-snapshot-local</url>
+        </snapshotRepository>
+    </distributionManagement>
+</project>
